@@ -1,0 +1,10 @@
+<header>
+<h1>titulo</h1>
+<p>
+  <span>
+    texto
+    </span> 
+    <span>
+      aleatorio
+      </span></p>
+</header>
